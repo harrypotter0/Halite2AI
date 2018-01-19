@@ -2,7 +2,7 @@ import hlt
 import logging
 from collections import OrderedDict
 game = hlt.Game("harrypotter0")
-logging.info("Starting Bot")
+logging.info("Starting SentdeBot")
 
 while True:
     game_map = game.update_map()
